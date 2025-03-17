@@ -1,3 +1,5 @@
+package post;
+
 public class Post {
 
     private int id;

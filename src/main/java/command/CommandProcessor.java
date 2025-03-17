@@ -1,3 +1,8 @@
+package command;
+
+import console.InputClass;
+import console.OutputClass;
+
 public class CommandProcessor {
     private final InputClass input;
     private final OutputClass output;

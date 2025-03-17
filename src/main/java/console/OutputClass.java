@@ -1,3 +1,5 @@
+package console;
+
 public class OutputClass {
 
     public void printPrompt() {
