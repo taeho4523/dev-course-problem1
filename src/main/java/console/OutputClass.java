@@ -7,7 +7,7 @@ public class OutputClass {
     }
 
     public void print(String message) {
-        System.out.println(message);
+        System.out.print(message);
     }
 
     public void printEnd(){

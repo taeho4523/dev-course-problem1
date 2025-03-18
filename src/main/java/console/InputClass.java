@@ -13,4 +13,8 @@ public class InputClass {
         return scanner.nextInt();
     }
 
+    public int parseInt(){
+        return Integer.parseInt(scanner.nextLine().replaceAll("[^0-9]", ""));
+    }
+
 }
